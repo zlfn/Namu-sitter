@@ -15,3 +15,9 @@
 ## 지원 (예정) 스펙
 * 모든 [나무마크 문법](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%AC%B8%EB%B2%95%20%EB%8F%84%EC%9B%80%EB%A7%90)
 * [오픈나무마크 문법](https://2du.pythonanywhere.com/w/%EC%83%88%EB%A1%9C%EC%9A%B4%3A%EB%A0%8C%EB%8D%94%EB%9F%AC%2F%EC%98%A4%ED%94%88%EB%82%98%EB%AC%B4%EB%A7%88%ED%81%AC)
+
+### 관련된 프로젝트
+* [tree-sitter-mediawiki](https://github.com/Ordoviz/tree-sitter-mediawiki)
+* [tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown)
+* [openNAMU](https://github.com/openNAMU/openNAMU)
+* [GBSWiki](https://github.com/Iroom-gbs/GBSWiki)
